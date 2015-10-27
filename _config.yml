@@ -1,0 +1,23 @@
+name: Tony Faoro
+favicon: null
+layout_spectrum: 0.3404998453333974
+typography_spectrum: 0.2515955625567585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1623420270625502
+  lightness: 0.058891970198601484
+  saturation: 0.9568526013754308
+  rhythmicContrast: 0.8463934597093612
+purpose: []
